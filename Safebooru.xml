@@ -1,7 +1,7 @@
 <!DOCTYPE booruparser>
 <extension t="booruparser">
   <meta>
-    <name>Danbooru</name>
+    <name>Safebooru</name>
     <base-url>https://safebooru.donmai.us</base-url>
   </meta>
   <methods>
